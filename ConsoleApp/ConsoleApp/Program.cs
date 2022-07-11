@@ -12,6 +12,11 @@ namespace ConsoleApp
         {
             Console.Write("Enter Your Name: ");
             Console.Write("Enter Your Age: ");
+
+            string Name = Console.ReadLine();
+            byte Age = Convert.ToByte(Console.ReadLine());
+
+            Console.ReadKey();
         }
     }
 }
