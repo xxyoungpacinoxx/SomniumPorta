@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    internal class Human
+    public class Human
     {
-        
+        public int id { get; set; }
+        public string Name { get; set; }
+        public string FamilyName { get; set; }
+        public byte Age { get; set; }
     }
 }
