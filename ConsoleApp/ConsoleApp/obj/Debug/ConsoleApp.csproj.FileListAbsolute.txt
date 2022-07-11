@@ -1,0 +1,8 @@
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Git\Project\SomniumPorta\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
