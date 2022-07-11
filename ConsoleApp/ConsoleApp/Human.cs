@@ -12,5 +12,10 @@ namespace ConsoleApp
         public string Name { get; set; }
         public string FamilyName { get; set; }
         public byte Age { get; set; }
+
+        public string WhoAreYou () 
+        {
+            return ($"Name --> {Name} \nFamilyName --> {FamilyName} \nAge --> {Age.ToString()}");
+        }
     }
 }
