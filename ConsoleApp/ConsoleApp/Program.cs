@@ -10,6 +10,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter Your Name: ");
+            Console.Write("Enter Your Age: ");
         }
     }
 }
